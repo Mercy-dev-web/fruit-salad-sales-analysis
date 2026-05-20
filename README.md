@@ -1,22 +1,36 @@
-# fruit-salad-sales-analysis
-This project analyzes sales data from my fruit salad businesss
+# Ghifty's Bowl Sales Dashboard
 
-# objectives
-Calculate total revenue
-Identify highest-selling product
-Track number of orders
-Analyze weekly sales trends
+## Project Overview
+This project analyzes sales performance data for my fruit salad business, Ghifty's Bowl. The analysis was carried out to understand revenue performance, customer orders, and top-selling products.
 
-# Tools Used
-Excel
-Power BI
+## Objectives
+- Calculate total revenue generated
+- Determine the total number of orders
+- Identify the highest-selling product type
+- Analyze sales performance trends
 
-# Key Insights
-The highest-selling product type was Creamy Fruit Salad
-Total revenue generated was 119k
-Peak sales occurred on 30th April 2026
+## Tools Used
+- Microsoft Excel
+- Power BI
 
-# Project Files
-Excel dataset
-Power BI report
+## Dashboard Preview
+
+![Ghifty Sales Dashboard](Ghifty's Bowl_Sales_Dashboard.png)
+
+## Key Insights
+- Total revenue generated from sales was analyzed
+- The total number of customer orders was calculated
+- The highest-performing product category was identified
+- Sales trends and performance metrics were visualized using Power BI
+
+## Files Included
+- Power BI Dashboard File (.pbix)
+- Excel Dataset
+- Dashboard Screenshot
+
+## Project Purpose
+This project was created to practice data analysis and dashboard visualization skills using real business data from my fruit salad business.
+
+## Author
+Mercy
 
