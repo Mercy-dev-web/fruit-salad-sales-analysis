@@ -15,7 +15,9 @@ This project analyzes sales performance data for my fruit salad business, Ghifty
 
 ## Dashboard Preview
 
-![Ghifty's Bowl Sales Dashboard](fruit-salad-sales-analysis.png)
+![Dashboard 1](My Dashboard.png)
+
+![Dashboard 2](My Dashboard 2.png)
 
 ## Key Insights
 - Total revenue generated from sales was analyzed
